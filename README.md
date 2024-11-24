@@ -11,7 +11,7 @@ Timevolts時萬伏特 是一個使用 Vue CLI 打造的旅遊網站，具備跨�
 - 資料庫整合：後端 MySQL 資料庫存儲旅遊方案與使用者資料。
 
 ## 使用技術  
-前端：Vue CLI、JavaScript、SCSS
-後端：PHP
-資料庫：MySQL
-API 串連：fetch API
+- 前端：Vue CLI、JavaScript、SCSS
+- 後端：PHP
+- 資料庫：MySQL
+- API 串連：fetch API
